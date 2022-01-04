@@ -1,9 +1,11 @@
+<!--
+ * @Date: 2022-01-04 21:37:13
+ * @LastEditTime: 2022-01-04 22:51:21
+ * @Description: file content
+ * @FilePath: /vue3_ts/src/App.vue
+-->
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </div>
-  <router-view/>
+  <router-view />
 </template>
 
 <style lang="scss">
